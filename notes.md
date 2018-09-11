@@ -9,7 +9,10 @@
 3. [ ] Open Git bash
 	1. git config --global user.email "you@example.com"  //Omit global if setup is only for this repository
   		git config --global user.name "Your Name"
-4. [ ] execute >> git init command
+4. [ ] execute >>
+```
+git init command
+```
 5. [ ] Create text file (preferably in atom, notepad adds .txt extension)> name it A1.md
 6. [ ] execute >> git status > to see the changes
 7. [ ] execute >> git add A1.md
@@ -33,3 +36,5 @@ git add README.md
 git commit -m "first commit"
 
 git push -u origin master
+
+[Github help with Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
