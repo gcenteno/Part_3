@@ -7,6 +7,8 @@
 2. [ ] Clone repository in your local files
 	1. This will create directory in explorer: Part_2
 3. [ ] Open Git bash
+		![Open Git bash](/guibash_ss.png)
+
 	1. git config --global user.email "you@example.com"  //Omit global if setup is only for this repository
   		git config --global user.name "Your Name"
 4. [ ] execute >>
@@ -27,14 +29,5 @@ git init command
 
 
 -------------------------
-Markdown preview:
-
-
-echo "# Part_3" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-
-git push -u origin master
 
 [Github help with Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
