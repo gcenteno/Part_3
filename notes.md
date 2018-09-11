@@ -20,7 +20,7 @@ git init command
 9. [ ] git checkout -b "part-1-content"
 10. [ ] Fill up the file with the info of part 1 document (just text and titles)
 11. [ ] execute >> git commit -m "Add Part 1 text to Markdown doc"
-	1. You can see the preview in [markdownlivepreview](http://markdownlivepreview.com/).
+	1. You can see the preview in [Dillinger: markdown preview](https://dillinger.io/).
 12. [ ] execute >> git push --set-upstream origin part-1-content
 13. [ ] execute >> git checkout master
 14. [ ] execute >> git merge part-1-content
