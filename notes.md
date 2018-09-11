@@ -5,6 +5,9 @@
 	1. Create a [github account](https://github.com/) if not existing
 	2. Create repository in your account, and name it Part_2
 2. [ ] Clone repository in your local files
+```
+git clone repository_url 
+```
 	1. This will create directory in explorer: Part_2
 3. [ ] Open Git bash
 ![Open Git bash](/guibash_ss.png)
@@ -14,7 +17,7 @@
   		git config --global user.name "Your Name"
 4. [ ] Execute:
 ```
-git init command
+git init
 ```
 5. [ ] Create text file (preferably in [atom](https://atom.io/), notepad adds .txt extension)> name it A1.md
 6. [ ] Execute:
