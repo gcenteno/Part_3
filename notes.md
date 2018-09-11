@@ -1,8 +1,8 @@
 # Notes
 ## Part 2
 
-1. [ ] Install git
-	1. Create a github account if not existing
+1. [ ] Install [git](https://git-scm.com/downloads)
+	1. Create a [github account](https://github.com/) if not existing
 	2. Create repository in your account, and name it Part_2
 2. [ ] Clone repository in your local files
 	1. This will create directory in explorer: Part_2
