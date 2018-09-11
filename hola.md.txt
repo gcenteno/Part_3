@@ -7,7 +7,7 @@
 	3.1 git config --global user.email "you@example.com"  //Omit global if setup is only for this repository
   		git config --global user.name "Your Name"
 4. execute >> git init command
-5. Create text file > name it A1.md
+5. Create text file (preferably in atom, notepad adds .txt extension)> name it A1.md
 6. execute >> git status > to see the changes
 7. execute >> git add A1.md
 8. execute >> git commit -m "Initial commit"
