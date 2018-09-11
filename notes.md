@@ -12,48 +12,48 @@
 
 	1. git config --global user.email "you@example.com"  //Omit global if setup is only for this repository
   		git config --global user.name "Your Name"
-4. [ ] execute
+4. [ ] Execute:
 ```
 git init command
 ```
 5. [ ] Create text file (preferably in [atom](https://atom.io/), notepad adds .txt extension)> name it A1.md
-6. [ ] execute
+6. [ ] Execute:
 ```
 git status //to see the changes
 ```
-7. [ ] execute
+7. [ ] Execute:
 ```
 git add A1.md
 ```
 
-8. [ ] execute
+8. [ ] Execute:
 ```
  git commit -m "Initial commit"
  ```
 
-9. [ ] execute
+9. [ ] Execute:
 ```
 git checkout -b "part-1-content"
 ```
 
 10. [ ] Fill up the file with the info of part 1 document (just text and titles)
-11. [ ] execute
+11. [ ] Execute:
 ```
 git commit -m "Add Part 1 text to Markdown doc"
 ```
 	1. You can see the preview in [Dillinger: markdown preview](https://dillinger.io/).
 	2. [Github help with Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
-12. [ ] execute
+12. [ ] Execute:
 ```
 git push --set-upstream origin part-1-content
 ```
 
-13. [ ] execute
+13. [ ] Execute:
 ```
 git checkout master
 ```
 
-14. [ ] execute
+14. [ ] Execute:
 ```
 git merge part-1-content
 ```
