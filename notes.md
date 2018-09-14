@@ -1,12 +1,12 @@
 # Notes
-## Part 2
+## Part 3
 
 1. [ ] Install [git](https://git-scm.com/downloads)
 	1. Create a [github account](https://github.com/) if not existing
 	2. Create repository in your account, and name it Part_2
 2. [ ] Clone repository in your local files
 ```
-git clone repository_url 
+git clone repository_url
 ```
 	1. This will create directory in explorer: Part_2
 3. [ ] Open Git bash
